@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FacturaReparacionBase
+comment1.params=base
+comment1.target=FacturaReparacionBase(GestorVehiculosBases.Localizaciones.Base)
+comment2.params=
+comment2.target=GestorVehiculosBases.Localizaciones.Base\ getBase()
+comment3.params=
+comment3.target=double\ getCoste()
+numComments=4

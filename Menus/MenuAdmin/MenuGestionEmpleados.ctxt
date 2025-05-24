@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MenuGestionEmpleados
+comment1.params=
+comment1.target=MenuGestionEmpleados()
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=
+comment3.target=void\ asignarVehiculoSinBateria()
+comment4.params=
+comment4.target=void\ asignarVehiculoPorAveria()
+comment5.params=
+comment5.target=void\ asignarBasePorAveria()
+numComments=6

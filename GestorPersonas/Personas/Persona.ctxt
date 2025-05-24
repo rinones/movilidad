@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=nombre\ apellidos\ DNI\ rol
+comment1.target=Persona(java.lang.String,\ java.lang.String,\ java.lang.String,\ Enum.RolEnum)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getApellidos()
+comment5.params=apellidos
+comment5.target=void\ setApellidos(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDNI()
+comment7.params=
+comment7.target=Enum.RolEnum\ getRol()
+comment8.params=rol
+comment8.target=void\ setRol(Enum.RolEnum)
+numComments=9

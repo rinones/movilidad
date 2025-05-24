@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MenuGestionVehiculos
+comment1.params=
+comment1.target=MenuGestionVehiculos()
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=
+comment3.target=void\ altaVehiculoMapa()
+comment4.params=
+comment4.target=void\ altaVehiculoBase()
+comment5.params=
+comment5.target=void\ altaVehiculoAlmacen()
+comment6.params=
+comment6.target=void\ bajaVehiculo()
+comment7.params=
+comment7.target=void\ menuReubicarVehiculos()
+comment8.params=
+comment8.target=void\ moverMotoACoordenadas()
+comment9.params=
+comment9.target=void\ moverVehiculoANuevaBase()
+numComments=10

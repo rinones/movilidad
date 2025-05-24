@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GestorBases
+comment1.params=
+comment1.target=GestorBases()
+comment2.params=
+comment2.target=GestorBases\ getInstancia()
+comment3.params=nombre\ x\ y\ capacidad
+comment3.target=boolean\ addBasePorCoordenadas(java.lang.String,\ int,\ int,\ int)
+comment4.params=x\ y
+comment4.target=boolean\ removeBasePorCoordenadas(int,\ int)
+comment5.params=nombre
+comment5.target=boolean\ removeBasePorNombre(java.lang.String)
+comment6.params=DNIMecanico\ nombreBase
+comment6.target=boolean\ asignarMecanicoAveriaBase(java.lang.String,\ java.lang.String)
+comment7.params=usuario
+comment7.target=void\ mostrarDetalleBases(GestorPersonas.Personas.Usuario)
+comment8.params=nombreBase\ minutos
+comment8.target=boolean\ desactivarBase(java.lang.String,\ int)
+comment9.params=nombreBase
+comment9.target=boolean\ baseEstaDesactivada(java.lang.String)
+numComments=10

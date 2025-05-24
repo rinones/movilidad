@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mantenimiento
+comment1.params=nombre\ apellidos\ DNI
+comment1.target=Mantenimiento(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ getVehiculosSinBateria()
+comment3.params=
+comment3.target=java.util.List\ getVehiculosAveriados()
+comment4.params=vehiculosSinBateria
+comment4.target=void\ setVehiculosSinBateria(java.util.List)
+comment5.params=vehiculosAveriados
+comment5.target=void\ setVehiculosAveriados(java.util.List)
+comment6.params=
+comment6.target=void\ incrementarIntervenciones()
+comment7.params=
+comment7.target=int\ getIntervencionesRealizadas()
+numComments=8

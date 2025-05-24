@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VehiculoDeCoordenadas
+comment1.params=ID\ tipo
+comment1.target=VehiculoDeCoordenadas(int,\ Enum.VehiculoEnum)
+comment2.params=
+comment2.target=int\ getCoordenadaX()
+comment3.params=coordenadaX
+comment3.target=void\ setCoordenadaX(int)
+comment4.params=
+comment4.target=int\ getCoordenadaY()
+comment5.params=coordenadaY
+comment5.target=void\ setCoordenadaY(int)
+numComments=6

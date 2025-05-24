@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.class": true,
+        "**/*.bluej": true,
+        "**/*.ctxt": true,
+        "**/*.zip": true,
+        ".vscode/*.*": true,
+        "**/*.json": true,
+        "*.docx": true,
+        "**/.gitattributes": true,
+        ".gitattributes": true
+    },
+    "explorerExclude.backup": {}
+}

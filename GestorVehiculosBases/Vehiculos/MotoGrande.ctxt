@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MotoGrande
+comment1.params=ID\ tipo
+comment1.target=MotoGrande(int,\ Enum.VehiculoEnum)
+comment2.params=
+comment2.target=java.lang.String\ getNombreVehiculo()
+numComments=3

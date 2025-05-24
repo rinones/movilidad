@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VehiculoDeBase
+comment1.params=ID\ tipo
+comment1.target=VehiculoDeBase(int,\ Enum.VehiculoEnum)
+comment2.params=
+comment2.target=GestorVehiculosBases.Localizaciones.Base\ getBase()
+comment3.params=base
+comment3.target=void\ setBase(GestorVehiculosBases.Localizaciones.Base)
+numComments=4

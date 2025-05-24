@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuMantenimiento
+comment1.params=
+comment1.target=MenuMantenimiento()
+comment2.params=mantenimiento
+comment2.target=void\ mostrarMenu(GestorPersonas.Personas.Mantenimiento)
+numComments=3

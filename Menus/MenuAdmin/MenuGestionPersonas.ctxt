@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MenuGestionPersonas
+comment1.params=
+comment1.target=MenuGestionPersonas()
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=
+comment3.target=void\ altaUsuario()
+comment4.params=
+comment4.target=void\ bajaUsuario()
+comment5.params=
+comment5.target=void\ modificarUsuario()
+comment6.params=
+comment6.target=void\ mostrarUsuariosPromocion()
+comment7.params=
+comment7.target=void\ cambiarRolUsuario()
+comment8.params=
+comment8.target=void\ menuBuscarPersonas()
+numComments=9

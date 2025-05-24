@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ServicioGestionBases
+comment1.params=
+comment1.target=ServicioGestionBases()
+comment10.params=
+comment10.target=int\ getMaxCoordenadaY()
+comment2.params=nombreBase
+comment2.target=boolean\ existeBasePorNombre(java.lang.String)
+comment3.params=coordX\ coordY
+comment3.target=boolean\ coordenadasValidasYLibres(int,\ int)
+comment4.params=nombreBase\ coordX\ coordY\ capacidad
+comment4.target=boolean\ altaBasePorCoordenadas(java.lang.String,\ int,\ int,\ int)
+comment5.params=coordX\ coordY
+comment5.target=boolean\ existeBaseEnCoordenadas(int,\ int)
+comment6.params=coordX\ coordY
+comment6.target=boolean\ bajaBasePorCoordenadas(int,\ int)
+comment7.params=nombreBase
+comment7.target=boolean\ bajaBasePorNombre(java.lang.String)
+comment8.params=
+comment8.target=void\ dibujarMapa()
+comment9.params=
+comment9.target=int\ getMaxCoordenadaX()
+numComments=11

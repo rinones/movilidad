@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=nombre\ apellidos\ DNI\ rol
+comment1.target=Usuario(java.lang.String,\ java.lang.String,\ java.lang.String,\ Enum.RolEnum)
+comment2.params=
+comment2.target=double\ getSaldo()
+comment3.params=cantidad
+comment3.target=void\ agregarSaldo(double)
+comment4.params=cantidad
+comment4.target=boolean\ descontarCosto(double)
+comment5.params=saldo
+comment5.target=void\ setSaldo(double)
+comment6.params=
+comment6.target=java.util.List\ getHistorialViajes()
+comment7.params=viaje
+comment7.target=void\ registrarViaje(GestorViajes.Viaje)
+numComments=8

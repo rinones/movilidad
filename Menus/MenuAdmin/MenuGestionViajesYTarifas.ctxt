@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MenuGestionViajesYTarifas
+comment1.params=
+comment1.target=MenuGestionViajesYTarifas()
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=
+comment3.target=void\ modificarTarifa()
+comment4.params=
+comment4.target=void\ modificarDescuento()
+comment5.params=
+comment5.target=void\ modificarReservas()
+comment6.params=
+comment6.target=void\ modificarBaterias()
+numComments=7

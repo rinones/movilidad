@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Beneficios
+comment1.params=
+comment1.target=Beneficios()
+comment10.params=ID
+comment10.target=boolean\ reservarVehiculo(int)
+comment11.params=ID\ minutos
+comment11.target=boolean\ reservarVehiculo(int,\ int)
+comment2.params=
+comment2.target=double\ getBateriaMaxima()
+comment3.params=
+comment3.target=double\ getBateriaMinimaStandard()
+comment4.params=
+comment4.target=double\ getBateriaMinimaPremium()
+comment5.params=
+comment5.target=boolean\ getReservasPermitidas()
+comment6.params=
+comment6.target=boolean\ getBateriaPremiumPermitida()
+comment7.params=permitido
+comment7.target=void\ setReservasPermitidas(boolean)
+comment8.params=permitido
+comment8.target=void\ setBateriaPremiumPermitida(boolean)
+comment9.params=ID
+comment9.target=boolean\ estaReservado(int)
+numComments=12

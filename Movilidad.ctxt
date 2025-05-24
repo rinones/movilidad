@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Movilidad
+comment1.params=
+comment1.target=Movilidad()
+comment2.params=
+comment2.target=void\ crearSuperUser()
+comment3.params=
+comment3.target=void\ menuInicializacion()
+comment4.params=
+comment4.target=int\ solicitarSemilla()
+comment5.params=
+comment5.target=void\ iniciarMenu()
+comment6.params=
+comment6.target=void\ mostrarResumenInicializacion()
+numComments=7

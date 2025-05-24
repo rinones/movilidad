@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ServicioViajes
+comment1.params=
+comment1.target=ServicioViajes()
+comment10.params=viaje
+comment10.target=boolean\ mostrarViajeActivo(Viaje)
+comment11.params=viaje
+comment11.target=void\ mostrarResumenViajeFinalizado(Viaje)
+comment2.params=
+comment2.target=ServicioViajes\ getInstancia()
+comment3.params=usuario\ vehiculoEnum\ nombreBase
+comment3.target=Viaje\ iniciarViaje(GestorPersonas.Personas.Usuario,\ Enum.VehiculoEnum,\ java.lang.String)
+comment4.params=usuario\ vehiculoEnum\ coordenadaX\ coordenadaY
+comment4.target=Viaje\ iniciarViajeMoto(GestorPersonas.Personas.Usuario,\ Enum.VehiculoEnum,\ int,\ int)
+comment5.params=usuario\ viaje\ nombreBase
+comment5.target=boolean\ finalizarViajeBase(GestorPersonas.Personas.Usuario,\ Viaje,\ java.lang.String)
+comment6.params=usuario\ viaje\ coordX\ coordY
+comment6.target=boolean\ finalizarViajeCoordenadas(GestorPersonas.Personas.Usuario,\ Viaje,\ int,\ int)
+comment7.params=usuario\ viaje
+comment7.target=boolean\ validarFinalizacionViaje(GestorPersonas.Personas.Usuario,\ Viaje)
+comment8.params=viaje\ usuario
+comment8.target=void\ finalizarViajeComun(Viaje,\ GestorPersonas.Personas.Usuario)
+comment9.params=viaje
+comment9.target=double\ calcularCosto(Viaje)
+numComments=12

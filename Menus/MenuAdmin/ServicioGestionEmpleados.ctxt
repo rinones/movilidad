@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ServicioGestionEmpleados
+comment1.params=
+comment1.target=ServicioGestionEmpleados()
+comment2.params=dni\ idVehiculo
+comment2.target=boolean\ asignarVehiculoSinBateria(java.lang.String,\ int)
+comment3.params=dniMantenimiento\ dniMecanico\ idVehiculo
+comment3.target=boolean\ asignarVehiculoPorAveria(java.lang.String,\ java.lang.String,\ int)
+comment4.params=dniMecanico\ nombreBase
+comment4.target=boolean\ asignarBasePorAveria(java.lang.String,\ java.lang.String)
+numComments=5

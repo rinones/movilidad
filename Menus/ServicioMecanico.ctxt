@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ServicioMecanico
+comment1.params=mecanico
+comment1.target=void\ setMecanico(GestorPersonas.Personas.Mecanico)
+comment2.params=
+comment2.target=void\ verVehiculosYBasesAsignados()
+comment3.params=
+comment3.target=void\ realizarReparacionVehiculo()
+comment4.params=
+comment4.target=void\ realizarReparacionBase()
+comment5.params=
+comment5.target=void\ desactivarVehiculo()
+comment6.params=
+comment6.target=void\ desactivarBase()
+comment7.params=
+comment7.target=void\ mostrarHistorialReparaciones()
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ServicioGestionViajesYTarifas
+comment1.params=
+comment1.target=ServicioGestionViajesYTarifas()
+comment2.params=tipo
+comment2.target=double\ getTarifa(Enum.VehiculoEnum)
+comment3.params=tipo\ nuevaTarifa
+comment3.target=boolean\ modificarTarifa(Enum.VehiculoEnum,\ double)
+comment4.params=tipo
+comment4.target=double\ getDescuento(Enum.VehiculoEnum)
+comment5.params=tipo\ nuevoDescuento
+comment5.target=boolean\ modificarDescuento(Enum.VehiculoEnum,\ double)
+comment6.params=
+comment6.target=boolean\ getReservasPermitidas()
+comment7.params=permitido
+comment7.target=void\ setReservasPermitidas(boolean)
+comment8.params=permitido
+comment8.target=void\ setBateriaPremiumPermitida(boolean)
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UtilidadesMenus
+comment1.params=
+comment1.target=void\ mostrarMenuTipoVehiculo()
+comment2.params=
+comment2.target=void\ mostrarMenuRol()
+comment3.params=
+comment3.target=Enum.VehiculoEnum\ seleccionarTipoVehiculo()
+comment4.params=
+comment4.target=Enum.RolEnum\ seleccionarRol()
+numComments=5

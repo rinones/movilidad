@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GestorPromocion
+comment1.params=
+comment1.target=GestorPromocion()
+comment10.params=usuario
+comment10.target=java.util.Map\ obtenerDetallesPromocionUsuario(Personas.Usuario)
+comment11.params=usuario
+comment11.target=boolean\ esUsuarioElegibleParaPromocion(Personas.Usuario)
+comment2.params=
+comment2.target=GestorPromocion\ getInstancia()
+comment3.params=viajesPorUsuarioMap
+comment3.target=java.util.List\ getListaCandidatosPremium(java.util.Map)
+comment4.params=viajesUltimoMes
+comment4.target=boolean\ verificarViajesUltimoMes(java.util.List)
+comment5.params=viajes\ fechaInicioMillis
+comment5.target=java.util.List\ filtrarViajesPorFecha(java.util.List,\ long)
+comment6.params=viajes\ minimoViajes\ mesesConsecutivos
+comment6.target=boolean\ verificarViajesConsecutivos(java.util.List,\ int,\ int)
+comment7.params=viajes
+comment7.target=boolean\ verificarUsoDeTodosLosTipos(java.util.List)
+comment8.params=tiempoInicio
+comment8.target=java.lang.String\ calcularMesId(long)
+comment9.params=
+comment9.target=void\ mostrarUsuariosPromocion()
+numComments=12

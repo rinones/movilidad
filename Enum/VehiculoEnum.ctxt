@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=VehiculoEnum
+comment1.params=tarifa\ descuento\ ritmoConsumo\ textoMostrado
+comment1.target=VehiculoEnum(double,\ double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getTarifa()
+comment3.params=tarifa
+comment3.target=void\ setTarifa(double)
+comment4.params=
+comment4.target=double\ getDescuento()
+comment5.params=descuento
+comment5.target=void\ setDescuento(double)
+comment6.params=
+comment6.target=double\ getRitmoConsumo()
+comment7.params=ritmoConsumo
+comment7.target=void\ setRitmoConsumo(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

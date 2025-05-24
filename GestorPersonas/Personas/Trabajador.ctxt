@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Trabajador
+comment1.params=nombre\ apellidos\ DNI\ rol
+comment1.target=Trabajador(java.lang.String,\ java.lang.String,\ java.lang.String,\ Enum.RolEnum)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Standard
+comment1.params=nombre\ apellidos\ DNI
+comment1.target=Standard(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

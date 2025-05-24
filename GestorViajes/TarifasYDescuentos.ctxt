@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TarifasYDescuentos
+comment1.params=tipoVehiculo\ nuevaTarifa
+comment1.target=boolean\ modificarTarifa(Enum.VehiculoEnum,\ double)
+comment2.params=tipoVehiculo\ nuevoDescuento
+comment2.target=boolean\ modificarDescuento(Enum.VehiculoEnum,\ double)
+comment3.params=
+comment3.target=void\ mostrarTarifasActuales()
+comment4.params=
+comment4.target=void\ mostrarDescuentosActuales()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ServicioMantenimiento
+comment1.params=mantenimiento
+comment1.target=void\ verVehiculosAsignados(GestorPersonas.Personas.Mantenimiento)
+comment2.params=mantenimiento
+comment2.target=void\ realizarMantenimiento(GestorPersonas.Personas.Mantenimiento)
+comment3.params=
+comment3.target=void\ desactivarVehiculo()
+numComments=4

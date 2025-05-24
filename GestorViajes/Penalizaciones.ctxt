@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Penalizaciones
+comment0.text=\r\n\ Clase\ que\ gestiona\ las\ diferentes\ penalizaciones\ aplicables\ a\ los\ viajes.\r\n
+comment1.params=
+comment1.target=double\ obtenerPenalizacionPorBateriaAgotada()
+comment2.params=valor
+comment2.target=boolean\ definirPenalizacionPorBater\u00EDaAgotada(double)
+numComments=3
